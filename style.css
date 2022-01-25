@@ -10,6 +10,8 @@ img {
 }
 a {
     text-decoration: none;
+}
+header a {
     color: inherit;
 }
 ul {
